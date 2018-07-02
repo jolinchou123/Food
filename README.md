@@ -6,7 +6,7 @@ To add, edit and delete the details that you store in the tablelist
 
 ![image](https://github.com/jolinchou123/Food/blob/master/2.gif)
 
-Adding photos from your photo library
+Adding photos from your photo library to remember which store you have been to
 
 ![image](https://github.com/jolinchou123/Food/blob/master/3.gif)
 
